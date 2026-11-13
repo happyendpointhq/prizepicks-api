@@ -1,0 +1,381 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "16593344",
+      "line_score": 37.5,
+      "flash_sale_line_score": null,
+      "stat_type": "Pts+Rebs+Asts",
+      "stat_display_name": "PRA",
+      "description": "WAS",
+      "odds_type": "standard",
+      "projection_type": "Single Stat",
+      "allowed_wager_types": "under_or_over",
+      "event_type": "team",
+      "status": "pre_game",
+      "rank": 1,
+      "is_promo": false,
+      "discount_name": null,
+      "discount_percentage": null,
+      "adjusted_odds": true,
+      "refundable": true,
+      "in_game": false,
+      "is_live": false,
+      "is_live_scored": true,
+      "today": null,
+      "hr_20": null,
+      "trending_count": 1441,
+      "start_time": "2026-11-04T19:00:00.000-05:00",
+      "end_time": null,
+      "board_time": "2026-11-03T02:20:54.476-05:00",
+      "updated_at": "2026-11-03T02:20:54.593-05:00",
+      "tv_channel": null,
+      "custom_image": null,
+      "game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+      "league_ppid": "NBA",
+      "duration": {
+        "id": "11",
+        "name": "Full"
+      },
+      "player": {
+        "id": "87857",
+        "name": "Jalen Johnson",
+        "display_name": "Jalen Johnson",
+        "image_url": "https://static.prizepicks.com/images/players/NBA/Jalen_Johnson_NBA_player_FmEzfKxF660EMYtLuQFYNxDS-450.webp",
+        "position": "F",
+        "jersey_number": "1",
+        "team": "ATL",
+        "team_name": "Hawks",
+        "market": "Atlanta",
+        "league": "NBA",
+        "league_id": 7,
+        "ppid": "NBA_player_FmEzfKxF660EMYtLuQFYNxDS",
+        "combo": false
+      },
+      "team": {
+        "id": "200",
+        "abbreviation": "ATL",
+        "name": "Hawks",
+        "market": "Atlanta",
+        "logo": "https://static.prizepicks.com/production/5fcyh4y0vh4eq1o3y5wjognutn6j-AHawks_Primary_Icon%20%281%29.png",
+        "ppid": "NBA_team_1525rlTYn38Uft92O8WGQS1D",
+        "primary_color": "E03A3E",
+        "secondary_color": "26282A",
+        "tertiary_color": "E03A3E"
+      },
+      "league": {
+        "id": "7",
+        "name": "NBA",
+        "icon": "basketball",
+        "image_url": "https://static.prizepicks.com/images/leagues/production/128.svg",
+        "logo": "https://static.prizepicks.com/production/2ws9gunjf9w20587f3a68wwben7x-NBA%20%281%29.png",
+        "full_logo": "https://static.prizepicks.com/production/3peehp8jkljh288s795sbelw2aje-NBA_Logoman_word_onDkBkgd.png"
+      },
+      "game": {
+        "id": "192366",
+        "external_game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+        "start_time": "2026-11-04T19:00:00.000-05:00",
+        "end_time": null,
+        "status": "scheduled",
+        "is_live": false,
+        "created_at": "2026-10-05T00:11:05.079-04:00",
+        "updated_at": "2026-10-05T00:11:05.079-04:00",
+        "home_team": {
+          "id": "198",
+          "abbreviation": "WAS",
+          "name": "Wizards",
+          "market": "Washington",
+          "logo": "https://static.prizepicks.com/production/ap2slwju66fgzkq0embw7yxc3mo4-WWizards_Primary_Icon%20%281%29.png",
+          "ppid": "NBA_team_naWkR5LlWpSuyx34qoRCl7bo",
+          "primary_color": "E31837",
+          "secondary_color": "002B5C",
+          "tertiary_color": "E31837"
+        },
+        "away_team": {
+          "id": "200",
+          "abbreviation": "ATL",
+          "name": "Hawks",
+          "market": "Atlanta",
+          "logo": "https://static.prizepicks.com/production/5fcyh4y0vh4eq1o3y5wjognutn6j-AHawks_Primary_Icon%20%281%29.png",
+          "ppid": "NBA_team_1525rlTYn38Uft92O8WGQS1D",
+          "primary_color": "E03A3E",
+          "secondary_color": "26282A",
+          "tertiary_color": "E03A3E"
+        },
+        "metadata": {
+          "game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+          "game_info": {
+            "teams": {
+              "away": {
+                "abbreviation": "ATL"
+              },
+              "home": {
+                "abbreviation": "WAS"
+              }
+            }
+          },
+          "league_name": "NBA",
+          "status": "scheduled"
+        }
+      },
+      "stat_type_info": {
+        "id": "106",
+        "name": "Pts+Rebs+Asts",
+        "rank": 2,
+        "lfg_ignored_leagues": []
+      }
+    },
+    {
+      "id": "16593362",
+      "line_score": 18.5,
+      "flash_sale_line_score": null,
+      "stat_type": "Points",
+      "stat_display_name": "Points",
+      "description": "ATL",
+      "odds_type": "standard",
+      "projection_type": "Single Stat",
+      "allowed_wager_types": "under_or_over",
+      "event_type": "team",
+      "status": "pre_game",
+      "rank": 2,
+      "is_promo": false,
+      "discount_name": null,
+      "discount_percentage": null,
+      "adjusted_odds": true,
+      "refundable": true,
+      "in_game": false,
+      "is_live": false,
+      "is_live_scored": true,
+      "today": null,
+      "hr_20": null,
+      "trending_count": 2391,
+      "start_time": "2026-11-04T19:00:00.000-05:00",
+      "end_time": null,
+      "board_time": "2026-11-03T02:20:54.724-05:00",
+      "updated_at": "2026-11-03T02:20:54.877-05:00",
+      "tv_channel": null,
+      "custom_image": null,
+      "game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+      "league_ppid": "NBA",
+      "duration": {
+        "id": "11",
+        "name": "Full"
+      },
+      "player": {
+        "id": "304617",
+        "name": "Trae Young",
+        "display_name": "Trae Young",
+        "image_url": "https://static.prizepicks.com/images/manual/Trae_YoungWAS.png",
+        "position": "G",
+        "jersey_number": "3",
+        "team": "WAS",
+        "team_name": "Wizards",
+        "market": "Washington",
+        "league": "NBA",
+        "league_id": 7,
+        "ppid": "NBA_player_BIsXGUTVh0UaaH2EOMDWp9K",
+        "combo": false
+      },
+      "team": {
+        "id": "198",
+        "abbreviation": "WAS",
+        "name": "Wizards",
+        "market": "Washington",
+        "logo": "https://static.prizepicks.com/production/ap2slwju66fgzkq0embw7yxc3mo4-WWizards_Primary_Icon%20%281%29.png",
+        "ppid": "NBA_team_naWkR5LlWpSuyx34qoRCl7bo",
+        "primary_color": "E31837",
+        "secondary_color": "002B5C",
+        "tertiary_color": "E31837"
+      },
+      "league": {
+        "id": "7",
+        "name": "NBA",
+        "icon": "basketball",
+        "image_url": "https://static.prizepicks.com/images/leagues/production/128.svg",
+        "logo": "https://static.prizepicks.com/production/2ws9gunjf9w20587f3a68wwben7x-NBA%20%281%29.png",
+        "full_logo": "https://static.prizepicks.com/production/3peehp8jkljh288s795sbelw2aje-NBA_Logoman_word_onDkBkgd.png"
+      },
+      "game": {
+        "id": "192366",
+        "external_game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+        "start_time": "2026-11-04T19:00:00.000-05:00",
+        "end_time": null,
+        "status": "scheduled",
+        "is_live": false,
+        "created_at": "2026-10-05T00:11:05.079-04:00",
+        "updated_at": "2026-10-05T00:11:05.079-04:00",
+        "home_team": {
+          "id": "198",
+          "abbreviation": "WAS",
+          "name": "Wizards",
+          "market": "Washington",
+          "logo": "https://static.prizepicks.com/production/ap2slwju66fgzkq0embw7yxc3mo4-WWizards_Primary_Icon%20%281%29.png",
+          "ppid": "NBA_team_naWkR5LlWpSuyx34qoRCl7bo",
+          "primary_color": "E31837",
+          "secondary_color": "002B5C",
+          "tertiary_color": "E31837"
+        },
+        "away_team": {
+          "id": "200",
+          "abbreviation": "ATL",
+          "name": "Hawks",
+          "market": "Atlanta",
+          "logo": "https://static.prizepicks.com/production/5fcyh4y0vh4eq1o3y5wjognutn6j-AHawks_Primary_Icon%20%281%29.png",
+          "ppid": "NBA_team_1525rlTYn38Uft92O8WGQS1D",
+          "primary_color": "E03A3E",
+          "secondary_color": "26282A",
+          "tertiary_color": "E03A3E"
+        },
+        "metadata": {
+          "game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+          "game_info": {
+            "teams": {
+              "away": {
+                "abbreviation": "ATL"
+              },
+              "home": {
+                "abbreviation": "WAS"
+              }
+            }
+          },
+          "league_name": "NBA",
+          "status": "scheduled"
+        }
+      },
+      "stat_type_info": {
+        "id": "19",
+        "name": "Points",
+        "rank": 1,
+        "lfg_ignored_leagues": [
+          305
+        ]
+      }
+    },
+    {
+      "id": "16593271",
+      "line_score": 17.5,
+      "flash_sale_line_score": null,
+      "stat_type": "Points",
+      "stat_display_name": "Points",
+      "description": "ATL",
+      "odds_type": "standard",
+      "projection_type": "Single Stat",
+      "allowed_wager_types": "under_or_over",
+      "event_type": "team",
+      "status": "pre_game",
+      "rank": 3,
+      "is_promo": false,
+      "discount_name": null,
+      "discount_percentage": null,
+      "adjusted_odds": true,
+      "refundable": true,
+      "in_game": false,
+      "is_live": false,
+      "is_live_scored": true,
+      "today": null,
+      "hr_20": null,
+      "trending_count": 2343,
+      "start_time": "2026-11-04T19:00:00.000-05:00",
+      "end_time": null,
+      "board_time": "2026-11-03T02:20:54.170-05:00",
+      "updated_at": "2026-11-03T12:55:58.558-05:00",
+      "tv_channel": null,
+      "custom_image": null,
+      "game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+      "league_ppid": "NBA",
+      "duration": {
+        "id": "11",
+        "name": "Full"
+      },
+      "player": {
+        "id": "354452",
+        "name": "AJ Dybantsa",
+        "display_name": "AJ Dybantsa",
+        "image_url": "https://static.prizepicks.com/images/manual/AJ Dybantsa.png",
+        "position": "F",
+        "jersey_number": "4",
+        "team": "WAS",
+        "team_name": "Wizards",
+        "market": "Washington",
+        "league": "NBA",
+        "league_id": 7,
+        "ppid": "NBA_player_TDdR6xddombPVnCMelrMUJa",
+        "combo": false
+      },
+      "team": {
+        "id": "198",
+        "abbreviation": "WAS",
+        "name": "Wizards",
+        "market": "Washington",
+        "logo": "https://static.prizepicks.com/production/ap2slwju66fgzkq0embw7yxc3mo4-WWizards_Primary_Icon%20%281%29.png",
+        "ppid": "NBA_team_naWkR5LlWpSuyx34qoRCl7bo",
+        "primary_color": "E31837",
+        "secondary_color": "002B5C",
+        "tertiary_color": "E31837"
+      },
+      "league": {
+        "id": "7",
+        "name": "NBA",
+        "icon": "basketball",
+        "image_url": "https://static.prizepicks.com/images/leagues/production/128.svg",
+        "logo": "https://static.prizepicks.com/production/2ws9gunjf9w20587f3a68wwben7x-NBA%20%281%29.png",
+        "full_logo": "https://static.prizepicks.com/production/3peehp8jkljh288s795sbelw2aje-NBA_Logoman_word_onDkBkgd.png"
+      },
+      "game": {
+        "id": "192366",
+        "external_game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+        "start_time": "2026-11-04T19:00:00.000-05:00",
+        "end_time": null,
+        "status": "scheduled",
+        "is_live": false,
+        "created_at": "2026-10-05T00:11:05.079-04:00",
+        "updated_at": "2026-10-05T00:11:05.079-04:00",
+        "home_team": {
+          "id": "198",
+          "abbreviation": "WAS",
+          "name": "Wizards",
+          "market": "Washington",
+          "logo": "https://static.prizepicks.com/production/ap2slwju66fgzkq0embw7yxc3mo4-WWizards_Primary_Icon%20%281%29.png",
+          "ppid": "NBA_team_naWkR5LlWpSuyx34qoRCl7bo",
+          "primary_color": "E31837",
+          "secondary_color": "002B5C",
+          "tertiary_color": "E31837"
+        },
+        "away_team": {
+          "id": "200",
+          "abbreviation": "ATL",
+          "name": "Hawks",
+          "market": "Atlanta",
+          "logo": "https://static.prizepicks.com/production/5fcyh4y0vh4eq1o3y5wjognutn6j-AHawks_Primary_Icon%20%281%29.png",
+          "ppid": "NBA_team_1525rlTYn38Uft92O8WGQS1D",
+          "primary_color": "E03A3E",
+          "secondary_color": "26282A",
+          "tertiary_color": "E03A3E"
+        },
+        "metadata": {
+          "game_id": "NBA_game_jYhIZVxhAlsaWCHUbFacKuVL",
+          "game_info": {
+            "teams": {
+              "away": {
+                "abbreviation": "ATL"
+              },
+              "home": {
+                "abbreviation": "WAS"
+              }
+            }
+          },
+          "league_name": "NBA",
+          "status": "scheduled"
+        }
+      },
+      "stat_type_info": {
+        "id": "19",
+        "name": "Points",
+        "rank": 1,
+        "lfg_ignored_leagues": [
+          305
+        ]
+      }
+    }
+  ]
+}
